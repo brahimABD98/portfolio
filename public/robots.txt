@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brahimabd.ovh/sitemap-index.xml
